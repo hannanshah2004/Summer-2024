@@ -4,14 +4,14 @@ In an era of ubiquitous data, ensuring privacy and security in machine learning 
 
 ## Key Contributions
 
-- **Aggregation Techniques**: We analyzed several aggregation strategies to enhance robustness against adversarial attacks, including:
+- **Aggregation Techniques**:
   - Federated Averaging
   - Krum
   - Median
   - Trim Mean
   - FLTrust
   - ROMOA
-- **Malicious Techniques**: This project investigates the impact of different attacks on FL performance, including:
+- **Malicious Techniques**:
   - No Byzantine Attack
   - Trim Attack
   - Krum Attack
