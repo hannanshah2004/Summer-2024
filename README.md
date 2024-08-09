@@ -1,6 +1,6 @@
 ## Project Overview
 
-In the era of ubiquitous data, ensuring privacy and security in machine learning models is crucial, especially for IoT devices with stringent resource constraints. This project explores various attack and defense mechanisms in federated learning, proposing solutions that are both secure and efficient for resource-constrained environments.
+In an era of ubiquitous data, ensuring privacy and security in machine learning models is crucial, especially for IoT devices with stringent resource constraints. This project explores various attack and defense mechanisms in federated learning, proposing solutions that are both secure and efficient for resource-constrained environments.
 
 ## Key Contributions
 
