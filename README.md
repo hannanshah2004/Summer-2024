@@ -4,8 +4,21 @@ In an era of ubiquitous data, ensuring privacy and security in machine learning 
 
 ## Key Contributions
 
-- **Aggregation Techniques**: We analyzed several aggregation strategies including Krum, Median, FLTrust, and ROMOA to enhance robustness against adversarial attacks.
-- **Malicious Techniques**: This project investigates the impact of different attacks such as Trim Attack, Krum Attack, and Scaling Attack on FL performance.
+- **Aggregation Techniques**: We analyzed several aggregation strategies to enhance robustness against adversarial attacks, including:
+  - Federated Averaging
+  - Krum
+  - Median
+  - Trim Mean
+  - FLTrust
+  - ROMOA
+- **Malicious Techniques**: This project investigates the impact of different attacks on FL performance, including:
+  - No Byzantine Attack
+  - Trim Attack
+  - Krum Attack
+  - FLTrust Attack
+  - Min-Max Attack
+  - Min-Sum Attack
+  - Scaling Attack
 - **TinyDistillation**: A custom setup using the CIFAR-10 dataset to simulate federated learning on a resource-constrained device, with a focus on maintaining model integrity through quantization and pruning techniques.
 
 ## File Structure
