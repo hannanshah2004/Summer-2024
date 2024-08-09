@@ -31,7 +31,6 @@ In an era of ubiquitous data, ensuring privacy and security in machine learning 
   - **`FCLayer.h`**: Header file containing the implementation of fully connected layers used in the neural network.
   - **`NeuralNetwork.cpp`**: Contains our fully connected neural network and federated learning implementation.
   - **`simulation.cc`**: The main file for running simulations on federated learning experiments.
-  - **`resultsGraph.py`**: Script to generate graphs from the results of the simulation.
 
 ## Highlighted Contributions
 
