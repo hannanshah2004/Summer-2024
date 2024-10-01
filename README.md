@@ -36,4 +36,4 @@ In an era of ubiquitous data, ensuring privacy and security in machine learning 
 
 ### Kavya Kopparapu and Eric Lin
 
-Special acknowledgment to **Kavya Kopparapu** and **Eric Lin** for their significant contributions to the PerCom 2022 demo paper titled "TinyFedTL: Federated Transfer Learning on Ubiquitous Tiny IoT Devices". Their work laid the foundation for implementing federated transfer learning on microcontrollers, addressing the key challenges of privacy, security, and resource constraints in TinyML.
+Special acknowledgment to **Kavya Kopparapu** and **Eric Lin** for their significant contributions to the PerCom 2022 demo paper titled "TinyFedTL: Federated Transfer Learning on Ubiquitous Tiny IoT Devices". Their work laid the foundation for implementing federated transfer learning on microcontrollers, addressing the key challenges of privacy, security, and resource constraints in TinyML, providing the necessary background to complete this project.
